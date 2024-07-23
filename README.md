@@ -1,2 +1,3 @@
 # JavaScript-Code-challenge-
-this javascript code is launched by # chai aur code run by hitesh chaudhary.
+This javascript code is launched on #chaicode run by hitesh chaudhary.
+In this, challenge we have to solve alotted practice set on daily basis.
